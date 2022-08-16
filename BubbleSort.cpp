@@ -1,4 +1,5 @@
 // BUBBLE SORT
+// Algo - swap curr element to next element if it is smaller eventually big elemnts pile up in last
 class Solution {
 public:
     vector<int> sortArray(vector<int>& nums) {
